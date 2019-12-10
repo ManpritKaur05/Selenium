@@ -1,0 +1,2 @@
+INFO    2019-08-26 23:46:05,929 [main] ReadFromExcel.TestLogs  - This is the message you want to print
+ERROR   2019-08-26 23:46:05,932 [main] ReadFromExcel.TestLogs  - Error message will be displayed
